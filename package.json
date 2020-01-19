@@ -1,11 +1,11 @@
 {
-  "name": "react-simple-select",
+  "name": "reacthook-simple-select",
   "author": {
     "name": "duynguyenvp",
     "email": "duynguyen263@hotmail.com",
     "url": "http://somethingaboutme.info"
   },
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
