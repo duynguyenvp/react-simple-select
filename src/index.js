@@ -86,13 +86,13 @@ const MySelect = props => {
 
     const renderSelectedOption = () => {
         const { multiple } = props
-        const { selectedValues, listOptions } = state
+        const { selectedValues } = state
         if (selectedValues && selectedValues.length) {
             let selected = ''
             if (multiple) {
                 selected = []
                 selected = selectedValues && selectedValues.map((value, index) => {
-                    const option = listOptions.find(f => f.value == value)
+                    const option = options.find(f => f.value == value)
                     const optionName = option && option.name || ''
                     return (
                         <div className="multiple-option-selected" key={index}>

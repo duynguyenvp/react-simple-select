@@ -5,7 +5,8 @@
     "email": "duynguyen263@hotmail.com",
     "url": "http://somethingaboutme.info"
   },
-  "version": "1.0.0",
+  "homepage": "https://github.com/duynguyenvp/reacthook-simple-select",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "scripts": {

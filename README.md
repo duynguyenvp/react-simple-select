@@ -1,8 +1,8 @@
-# react-simple-select
+# reacthook-simple-select
 
 #### Installation:
 ```sh
-$ npm install --save react-simple-select
+$ npm install --save reacthook-simple-select
 ```
 #### Options
 | option | Description | Example |  
